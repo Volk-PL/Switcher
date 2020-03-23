@@ -1,1 +1,11 @@
-Some switcher
+<div id="wrapper" class="dark">  
+   
+  <div id="pure-dark-mode">
+    <label class="switch">
+      <input id="switchBox" type="checkbox">
+      <span class="slider round"></span>
+    </label>
+  </div>
+  
+</div>
+    
